@@ -1,89 +1,103 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:3FB950&height=220&section=header&text=Srisailam%20Pyata&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1F6FEB,50:58A6FF,75:79C0FF,100:0D1117&height=260&section=header&text=Srisailam%20Pyata&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Java%20Engineer&descAlignY=60"/>
 
-# 👋 Hi, I'm Srisailam Pyata
+# 👋 Welcome to My Engineering Space
 
 ### Senior Full Stack Java Engineer
 
-Building scalable enterprise platforms using Java, Spring Boot, AWS, Angular, and React.
+🚀 Building scalable enterprise platforms using Java, Spring Boot, AWS, Angular, and React
 
-🚀 Currently modernizing enterprise insurance systems at Plymouth Rock Assurance through Java 21, Spring Boot, Microservices, and Cloud-Native Architecture initiatives.
+🏢 Currently modernizing enterprise insurance platforms at **Plymouth Rock Assurance**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](ADD_LINKEDIN_URL)
+🔄 Enterprise Modernization • ☁️ Cloud Native Architecture • ⚡ Distributed Systems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](ADD_YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:sripyati95@gmail.com)
 
 </div>
 
 ---
 
-## 💡 About Me
+# 💡 About Me
 
-Senior Full Stack Java Engineer with 7+ years of experience designing, building, and modernizing enterprise applications across:
+Senior Full Stack Java Engineer with **7+ years of experience** designing, modernizing, and scaling enterprise applications across:
 
-* 🏦 Insurance
-* 💳 FinTech
-* 🎮 Gaming
-* 🎓 Education
+🏦 Insurance
+💳 FinTech
+🎮 Gaming
+🎓 Education
 
-I specialize in transforming legacy enterprise systems into scalable cloud-native architectures while maintaining performance, security, and long-term maintainability.
-
-### Current Focus
-
-* Java 21 Modernization
-* Spring Boot Architecture
-* Distributed Systems
-* Enterprise Microservices
-* AWS Cloud Engineering
-* Angular & React Applications
-* Event-Driven Architecture
-* Platform Modernization
+I specialize in transforming legacy enterprise systems into scalable cloud-native architectures while maintaining reliability, security, and long-term maintainability.
 
 ---
 
-## 🏢 Current Role
+# 🏢 Experience Snapshot
 
-### Senior Full Stack Java Developer
+| Company                    | Role                             | Timeline       |
+| -------------------------- | -------------------------------- | -------------- |
+| 🔵 Plymouth Rock Assurance | Senior Full Stack Java Developer | 2025 - Present |
+| 🟣 Belhaven University     | Full Stack Java Developer        | 2024 - 2025    |
+| 🟠 NE Group                | Java Developer                   | 2018 - 2023    |
 
-**Plymouth Rock Assurance** | Boston, MA
+---
 
-Working on large-scale modernization initiatives including:
+# 🚀 Current Focus
 
-* Java 8 → Java 21 Migration
-* Spring XML → Spring Boot Migration
-* JBoss EAP 7 → JBoss EAP 8 Migration
+<table>
+<tr>
+
+<td width="50%">
+
+### Enterprise Modernization
+
+* Java 8 → Java 21
+* Spring XML → Spring Boot
 * Jakarta EE Migration
-* Enterprise Microservices Architecture
-* AWS-Aligned Deployments
-* Angular Modernization
-* API Modernization
+* JBoss EAP 7 → JBoss EAP 8
+
+</td>
+
+<td width="50%">
+
+### Cloud Native Engineering
+
+* AWS Architecture
+* Docker
+* Kubernetes
+* CI/CD Automation
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## ⚡ Technology Stack
+# ⚡ Technology Stack
 
-### Backend Engineering
+## Backend Engineering
 
-![Java](https://img.shields.io/badge/Java-21-F89820?style=for-the-badge\&logo=openjdk)
+![Java](https://img.shields.io/badge/Java_21-F89820?style=for-the-badge\&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-1F6FEB?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge)
 
-### Frontend Engineering
+## Frontend Engineering
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
 
-### Cloud & DevOps
+## Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
 
-### Data & Messaging
+## Databases & Messaging
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
@@ -92,49 +106,65 @@ Working on large-scale modernization initiatives including:
 
 ---
 
-## 🏗️ Engineering Expertise
+# 🏗️ Engineering Expertise
 
-```text
-Enterprise Modernization
-├── Java 8 → Java 21
-├── Spring → Spring Boot
-├── Jakarta Migration
-└── JBoss EAP Modernization
+```mermaid
+flowchart LR
 
-Cloud Native Systems
-├── AWS
-├── Docker
-├── Kubernetes
-└── Microservices
+A[Java 21] --> B[Spring Boot]
 
-Distributed Systems
-├── Kafka
-├── Event Driven Architecture
-├── API Design
-└── Observability
+B --> C[Microservices]
 
-Full Stack Development
-├── Angular
-├── React
-├── REST APIs
-└── Secure Applications
+C --> D[Kafka]
+
+C --> E[AWS]
+
+C --> F[Angular]
+
+C --> G[React]
+
+E --> H[Kubernetes]
+
+D --> I[Event Driven Architecture]
+
+H --> J[Cloud Native Systems]
 ```
 
 ---
 
-## 🚀 Featured Projects
+# 🎯 Areas of Expertise
+
+🔹 Enterprise Application Modernization
+
+🔹 Distributed Systems Design
+
+🔹 Event Driven Architecture
+
+🔹 Cloud Native Platforms
+
+🔹 API Security & Governance
+
+🔹 Observability & Monitoring
+
+🔹 Performance Optimization
+
+🔹 Scalable Microservices
+
+---
+
+# 🚀 Featured Engineering Initiatives
 
 ### Enterprise Platform Modernization
 
-Modernizing enterprise insurance platforms from legacy Java/Spring architectures into scalable cloud-native systems.
+Migrating enterprise applications from Java 8, Spring XML, and JBoss architectures into Java 21 and cloud-native platforms.
 
 ### Microservices Architecture Blueprint
 
-Reference architecture covering:
+Production-grade architecture covering:
 
 * API Gateway
 * Service Discovery
-* Centralized Configuration
+* Configuration Management
 * Distributed Tracing
 * Security
 * Monitoring
@@ -142,11 +172,11 @@ Reference architecture covering:
 
 ### API Test Data Management Platform
 
-Centralized platform for API payload management, testing workflows, and reusable test datasets.
+Centralized platform for API payload management, testing workflows, reusable datasets, and developer productivity.
 
 ### Cloud Native Engineering Labs
 
-Production-ready examples using:
+Reference implementations using:
 
 * AWS
 * Docker
@@ -156,18 +186,23 @@ Production-ready examples using:
 
 ---
 
-## 📚 Currently Learning
+# 📚 Engineering Interests
 
-* Platform Engineering
-* Cloud Architecture Patterns
-* System Design at Scale
-* Kubernetes Operations
-* Event Streaming Architectures
-* AI for Software Engineering
+☁️ Platform Engineering
+
+⚡ Java 21 Adoption
+
+🏗️ System Design at Scale
+
+🔄 Event Streaming Platforms
+
+🚀 Cloud Architecture
+
+🤖 AI for Software Engineering
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 ### Master of Science in Information Technology Management
 
@@ -177,7 +212,7 @@ GPA: 3.91
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -189,20 +224,24 @@ GPA: 3.91
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-* LinkedIn: Add your LinkedIn URL
-* Email: [sripyati95@gmail.com](mailto:sripyati95@gmail.com)
-* GitHub: https://github.com/spyata6
+💼 LinkedIn: Add Your LinkedIn URL
+
+📧 Email: [sripyati95@gmail.com](mailto:sripyati95@gmail.com)
+
+🐙 GitHub: https://github.com/spyata6
 
 ---
 
 <div align="center">
 
-### "Transforming Legacy Systems into Cloud-Native Platforms"
+## Building Enterprise Software That Scales
 
-⭐ Building Enterprise Software | Java 21 | Spring Boot | AWS | Angular | React
+### Java 21 • Spring Boot • AWS • Angular • React
+
+*"Transforming Legacy Systems into Cloud-Native Platforms"*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:58A6FF,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:79C0FF,50:58A6FF,75:1F6FEB,100:0D1117&height=140&section=footer"/>
